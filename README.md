@@ -30,7 +30,7 @@ This script automates the installation and setup of SuiteCRM using Docker Compos
 2. **Run the Script**:
    Execute the installation script to set up SuiteCRM.
    ```bash
-   ./install_suitecrm.sh
+   ./install_suitecrm_docker.sh
    ```
 
 3. **Follow Prompts**:
